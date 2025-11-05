@@ -1,0 +1,5 @@
+../Core/Src/freertos.c:98:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:150:6:AppTask_ADC	48	static
+../Core/Src/freertos.c:191:6:AppTask_LED	40	static
+../Core/Src/freertos.c:218:6:AppTask_ScanKeys	24	static
+../Core/Src/freertos.c:258:5:__io_putchar	16	static
